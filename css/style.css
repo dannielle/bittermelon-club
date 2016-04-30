@@ -1,0 +1,25 @@
+body {
+	background: #fddcb4;
+	color: #ea2e34;
+	font-family: "Arvo", "Helvetica", sans-serif;
+}
+
+.body {
+	text-align: center;
+	font-weight: bolder;
+	font-size: 3em;
+}
+
+.header {
+	padding-top: 3em;
+	background: #ea2e34;
+	color: #fddcb4;
+}
+
+.content {
+	padding: 3em 0;
+}
+
+h1 {
+	font-size: 2em;
+}
